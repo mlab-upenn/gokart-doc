@@ -1,6 +1,6 @@
-# F1tenth documentation
+# GoKart documentation
 
-This repository contains the source files of [F1tenth](http://f1tenth.org)'s documentation, in reStructuredText markup language (reST).
+This repository contains the source files of UPenn GoKart's documentation, in reStructuredText markup language (reST).
 
 ## Contributing changes
 
