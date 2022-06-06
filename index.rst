@@ -3,7 +3,7 @@ GoKart - Build Documentation
 
 Welcome to the official build documentation of UPenn GoKart.
 
-.. image:: img/f1tenth_NX.png
+.. image:: img/gokart-cover.jpg
   :align: center
 
 .. note:: UPenn GoKart is an open source project developed by a community of
@@ -18,3 +18,45 @@ Welcome to the official build documentation of UPenn GoKart.
 The table of contents in the sidebar should let you easily access the
 documentation for your topic of interest. You can also use the search function
 in the top left corner.
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Build and Race
+   :name: sec-getting-started
+   :hidden:
+
+   getting_started/intro
+   getting_started/build_car/index
+   getting_started/software_setup/index
+   getting_started/driving/index
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Simulate
+   :name: sec-forward
+   :hidden:
+
+   going_forward/simulator/index
+..
+   going_forward/drive_rosbag
+   going_forward/simulation/index
+   going_forward/algorithms/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Support
+   :name: sec-support-contact
+   :hidden:
+
+   getting_started/faq
+   support/contact
+   support/acknowledgment
+
+
+.. Indices and tables
+.. ------------------
+..
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
