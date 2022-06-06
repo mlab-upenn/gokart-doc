@@ -45,6 +45,14 @@ in the top left corner.
 
 .. toctree::
    :maxdepth: 1
+   :caption: Learn
+   :name: sec-learn
+   :hidden:
+
+   learn/intro
+
+.. toctree::
+   :maxdepth: 1
    :caption: Support
    :name: sec-support-contact
    :hidden:
