@@ -1,3 +1,12 @@
-.. _doc_2022:
+.. _doc_2023:
 
-**2022**
+**2023**
+
+.. toctree::
+    :maxdepth: 1
+    :caption: 2023
+    :name: sec-2023
+    :hidden:
+
+    2023/race
+    2023/team
