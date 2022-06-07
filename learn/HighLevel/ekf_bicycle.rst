@@ -3,7 +3,7 @@
 EKF Bicycle Model
 =========================
 
-EKF or the Extended Kalman Filter is used for accurate state estimations of robots. We used the ekf algorithm to fuse GPS and IMU measurements to obtain a faster rate of response of our state estimations as relying only on GPS measurements is extremely slow for fast autonomous driving.
+EKF or the Extended Kalman Filter is used for accurate state estimations of robots. We used the EKF algorithm to fuse GPS and IMU measurements to obtain a faster rate of response of our state estimations as relying only on GPS measurements is extremely slow for fast autonomous driving.
 
 We used the following reference to implement the EKF algorithm: `EKF Bicycle Model Paper <https://escholarship.org/content/qt3v08d6nt/qt3v08d6nt.pdf?t=lnpyrf>`_
 
