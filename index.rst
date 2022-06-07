@@ -42,7 +42,7 @@ in the top left corner.
    going_forward/algorithms/index
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Learn
    :name: sec-learn
    :hidden:
@@ -50,7 +50,7 @@ in the top left corner.
    learn/intro
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: Race and Team
     :name: sec-team
     :hidden:
