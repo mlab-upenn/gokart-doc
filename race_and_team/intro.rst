@@ -12,5 +12,5 @@ This section contains details of the team members and the race performance by th
     :name: sec-years
     :hidden:
 
-    race_and_team/2022/intro
-    race_and_team/2023/intro
+    year2022/intro
+    year2023/intro
