@@ -1,6 +1,6 @@
 .. _doc_race_and_team_intro:
 
-UPenn Autonomous GoKart team
+Years
 ======================
 
 This section contains details of the team members and the race performance by the years.
@@ -8,7 +8,7 @@ This section contains details of the team members and the race performance by th
 
 .. toctree::
     :maxdepth: 1
-    :caption: UPenn Autonomous GoKart team
+    :caption: Years
     :name: sec-years
     :hidden:
 
