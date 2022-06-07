@@ -1,6 +1,6 @@
 .. _doc_race_and_team_intro:
 
-Years
+Race and Team
 ======================
 
 This section contains details of the team members and the race performance by the years.
@@ -8,7 +8,7 @@ This section contains details of the team members and the race performance by th
 
 .. toctree::
     :maxdepth: 1
-    :caption: Years
+    :caption: Race and Team
     :name: sec-years
     :hidden:
 
