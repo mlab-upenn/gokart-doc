@@ -8,5 +8,5 @@
     :name: sec-2023
     :hidden:
 
-    2023/race
-    2023/team
+    race
+    team

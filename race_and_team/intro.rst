@@ -11,6 +11,5 @@ This section contains details of the team members and the race performance by th
     :name: sec-learn
     :hidden:
 
-    HighLevel/intro
-    LowLevel/intro
-    DevicesandComponents/intro
+    year2022/intro
+    year2023/intro

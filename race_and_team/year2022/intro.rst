@@ -8,5 +8,5 @@
     :name: sec-2022
     :hidden:
 
-    2022/race
-    2022/team
+    race
+    team
