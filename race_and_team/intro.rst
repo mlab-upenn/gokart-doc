@@ -3,7 +3,7 @@
 UPenn Autonomous GoKart team
 ======================
 
-This section contains details of the team members and the race performance by the years
+This section contains details of the team members and the race performance by the years.
 
 
 .. toctree::
@@ -12,5 +12,5 @@ This section contains details of the team members and the race performance by th
     :name: sec-years
     :hidden:
 
-    2022/intro
-    2023/intro
+    race_and_team/2022/intro
+    race_and_team/2023/intro
