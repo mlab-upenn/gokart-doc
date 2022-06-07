@@ -37,7 +37,7 @@ in the top left corner.
    :name: sec-forward
    :hidden:
 
-   going_forward/simulator/index
+   simulator/main
 ..
    going_forward/drive_rosbag
    going_forward/simulation/index
