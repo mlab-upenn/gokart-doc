@@ -1,19 +1,20 @@
 .. _doc_learn_intro:
 
-Learn The Algorithms
+Learn
 ======================
 
-This section details the various high-level algorithms used on the GoKart to make it autonomous. It list resources for each high level algorithm and a working code repository if possible.
-See the side-bar under "Learn the Algorithms" for more details.
+This section details the various components, high-level and low-level algorithms used on the GoKart to make it autonomous. It list resources for each high level algorithm and a working code repository if possible.
+See the side-bar under "Learn" for more details.
+
+.. image:: img/AutonomousStackFlow.png
+  :align: center
 
 .. toctree::
     :maxdepth: 1
-    :caption: High Level Algos
-    :name: sec-high-algos
+    :caption: Learn
+    :name: sec-learn
     :hidden:
 
-    pure_pursuit
-    follow_the_gap
-    lidar_cone_detection
-    ekf_bicycle
-    
+    HighLevel/intro
+    LowLevel/intro
+    DevicesandComponents/intro
