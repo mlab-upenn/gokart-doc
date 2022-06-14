@@ -9,4 +9,4 @@ More information on the Ouster is available here: `Ouster Website <https://ouste
 
 The Ouster we used for our purpose was the 32 layer lidar OS1 version.
 
-The drivers for lidar can be found here: `Driver Repo<https://github.com/ros-drivers/ros2_ouster_drivers>`_
+The drivers for lidar can be found here: `Driver Repo <https://github.com/ros-drivers/ros2_ouster_drivers>`_
