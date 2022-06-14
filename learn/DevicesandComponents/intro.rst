@@ -3,7 +3,7 @@
 Devices and Components
 ======================
 
-This section details the various devices and components used on the GoKart to make it autonomous. It list resources for each high level algorithm and a working code repository if possible.
+This section details the various devices and components used on the GoKart to make it autonomous. It list resources and links for each of these components if possible.
 See the side-bar under "Devices and Components" for more details.
 
 .. toctree::
@@ -13,3 +13,5 @@ See the side-bar under "Devices and Components" for more details.
     :hidden:
 
     GNSS
+    Lidar
+    Jetson
