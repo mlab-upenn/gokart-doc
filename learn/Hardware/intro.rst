@@ -13,3 +13,7 @@ This section details the various hardware components and sensors used on the GoK
     :hidden:
 
     GNSS.rst
+    sensors.rst
+    lidar.rst
+    jetson.rst
+    peplink.rst
