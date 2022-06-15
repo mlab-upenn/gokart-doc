@@ -13,3 +13,9 @@ The algorithm used by us for lidar cone estimation is highlighted here: `Lidar C
 For a working code implementation refer here: `Lidar Cone Detection Code <https://github.com/mlab-upenn/gokart/tree/lidar-cones/src/gokart/lidar_cones>`_
 
 Note that the above implementation was implemented on an Ouster OS1 32 Layer Lidar and cones of certain fixed sizes. If the lidar and cone sizes are different then change appropriate parameters in **cluster.cpp** in the source code.
+
+Below is a video demonstrating our algorithm:
+
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/4snktyzZFpI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
