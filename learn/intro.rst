@@ -15,6 +15,6 @@ See the side-bar under "Learn" for more details.
     :name: sec-learn
     :hidden:
 
-    HighLevel/intro
-    LowLevel/intro
-    DevicesandComponents/intro
+    Software/intro
+    Hardware/intro
+    
