@@ -21,14 +21,12 @@ in the top left corner.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Build and Race
+   :caption: Build
    :name: sec-getting-started
    :hidden:
 
-   getting_started/intro
-   getting_started/build_car/index
-   getting_started/software_setup/index
-   getting_started/driving/index
+   intro
+   build_car/index
 
 
 .. toctree::
@@ -37,19 +35,27 @@ in the top left corner.
    :name: sec-forward
    :hidden:
 
-   going_forward/simulator/index
+   simulator/main
 ..
    going_forward/drive_rosbag
    going_forward/simulation/index
    going_forward/algorithms/index
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Learn
    :name: sec-learn
    :hidden:
 
    learn/intro
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Race and Team
+    :name: sec-team
+    :hidden:
+
+    race_and_team/intro
 
 .. toctree::
    :maxdepth: 1
