@@ -1,6 +1,7 @@
 .. _doc_2023:
 
-**2023**
+2023
+======================
 
 .. toctree::
     :maxdepth: 1
@@ -8,5 +9,5 @@
     :name: sec-2023
     :hidden:
 
-    race
-    team
+    race.rst
+    team.rst

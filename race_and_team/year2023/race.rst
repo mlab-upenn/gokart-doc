@@ -1,6 +1,6 @@
-.. _doc_2022_race:
+.. _doc_2023_race:
 
-2022 Purdue Autonomous EV GrandPrix
+Race
 ======================
 
 Teleop lap

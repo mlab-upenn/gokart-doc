@@ -1,6 +1,7 @@
 .. _doc_2022:
 
-**2022**
+2022
+======================
 
 .. toctree::
     :maxdepth: 1
@@ -8,5 +9,5 @@
     :name: sec-2022
     :hidden:
 
-    race
-    team
+    race.rst
+    team.rst

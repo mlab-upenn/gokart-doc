@@ -1,5 +1,17 @@
 .. _doc_ekf_bicycle:
 
+.. |check| raw:: html
+    <input checked=""  type="checkbox">
+
+.. |check_| raw:: html
+    <input checked=""  disabled="" type="checkbox">
+
+.. |uncheck| raw:: html
+    <input type="checkbox">
+
+.. |uncheck_| raw:: html
+    <input disabled="" type="checkbox">
+
 EKF Bicycle Model
 =========================
 
@@ -13,3 +25,15 @@ The high level overview of the paper is as follows:
     * The Jacobians used for linearization are not computed or mentioned explicitly in the paper and hence need to be computed.
 
 For a working code implementation refer here: `EKF Bicycle Model Code <https://github.com/mlab-upenn/gokart/tree/ekf-bicycle/src/gokart>`_
+
+STATUS - Tested in
++---------------------+------------------+
+| Tested in Simulation| Tested on Go Kart|
++=====================+==================+
+| YES                 |NO                |
++---------------------+------------------+
+
+
+STATUS
+[X] - Tested in simulation |check|
+[ ] - Tested on Go Kart |uncheck|

@@ -13,6 +13,6 @@ In this build guidelines we are focusing on the hardware setup of our GoKart veh
    :name: sec-build-instructions
    :hidden:
 
-   mechanical
-   electrical
-   all_together
+   mechanical.rst
+   electrical.rst
+   

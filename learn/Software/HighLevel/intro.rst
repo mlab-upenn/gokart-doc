@@ -12,6 +12,7 @@ See the side-bar under "Learn the Algorithms" for more details.
     :name: sec-high-algos
     :hidden:
 
+    race_line
     pure_pursuit
     follow_the_gap
     lidar_cone_detection
