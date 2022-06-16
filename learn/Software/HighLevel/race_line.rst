@@ -8,7 +8,7 @@ The `Global raceline optimization <https://github.com/TUMFTM/global_racetrajecto
 .. figure:: img/gps_selected.png
   :align: center
 
-  Hand selected GPS points
+  Hand selected center line GPS points
 
 .. figure:: img/optimized.png
   :align: center
