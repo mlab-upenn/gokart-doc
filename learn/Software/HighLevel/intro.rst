@@ -1,6 +1,6 @@
 .. _doc_high_level:
 
-High-Level algorithms
+High-Level Algorithms
 ======================
 
 This section details the various high-level algorithms used on the GoKart to make it autonomous. It list resources for each high level algorithm and a working code repository if possible.
