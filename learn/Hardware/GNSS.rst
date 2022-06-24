@@ -24,7 +24,7 @@ One important parameter that helped us with debugging is the antenna RF power an
 =========================
 Antenna
 =========================
-We used 2 `GNSS Multi-Band L1/L2 Surveying <https://www.sparkfun.com/products/17751>`_ antenna.
+We used 2 `GNSS Multi-Band L1/L2 Surveying <https://www.sparkfun.com/products/17751>`_ antenna. To get the most accurate heading readings these antennas need to be mounted in the same plane.
 
 =========================
 RTK correction services

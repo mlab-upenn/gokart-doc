@@ -8,11 +8,12 @@ The go-kart chasis used is the `Top Kart MSTEM3 <http://topkartusa.net/electric/
 The videos provided on the website aren't the best and having a person with go-kart building expertise is recommended. Ordering the chasis and parts required ahead of time is suggested as the turn around can delay your timeline.
 
 Here are few progress photos showing how the build started off:
-.. figure:: img/mech_1.png
+
+.. figure:: img/mech_1.JPG
   :align: center
 
-.. figure:: img/mech_2.png
+.. figure:: img/mech_2.JPG
   :align: center
 
-.. figure:: img/mech_3.png
+.. figure:: img/mech_3.JPG
   :align: center
