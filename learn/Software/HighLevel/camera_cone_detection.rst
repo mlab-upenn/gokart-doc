@@ -19,7 +19,7 @@ The initial task included detecting the cones and drawing bounding boxes around 
 Data augmentation was performed combining different cone datasets and creating our own with the cones used at the EV Grand Prix race.
 The dataset can be found here in roboflow - `Roboflow trained model and dataset <https://app.roboflow.com/ds/fmZgSOwqOC?key=w4lxpZmcmQ>`_
 This is a trained Roboflow 2.0 Object Detection model which can be deployed to NVIDIA Jetson using Roboflow inference API as a docker container 
-The following augmentations were carried out on the images 
+The following augmentations were carried out on the images as following.
 
 .. figure:: img/augmentation.png
   :align: center
