@@ -27,13 +27,9 @@ The high level overview of the paper is as follows:
 For a working code implementation refer here: `EKF Bicycle Model Code <https://github.com/mlab-upenn/gokart/tree/ekf-bicycle/src/gokart>`_
 
 STATUS - Tested in
+
 +---------------------+------------------+
 | Tested in Simulation| Tested on Go Kart|
-+=====================+==================+
++---------------------+------------------+
 | YES                 |NO                |
 +---------------------+------------------+
-
-
-STATUS
-[X] - Tested in simulation |check|
-[ ] - Tested on Go Kart |uncheck|
