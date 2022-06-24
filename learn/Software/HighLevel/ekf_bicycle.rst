@@ -29,11 +29,6 @@ For a working code implementation refer here: `EKF Bicycle Model Code <https://g
 STATUS - Tested in
 +---------------------+------------------+
 | Tested in Simulation| Tested on Go Kart|
-+=====================+==================+
++---------------------+------------------+
 | YES                 |NO                |
 +---------------------+------------------+
-
-
-STATUS
-[X] - Tested in simulation |check|
-[ ] - Tested on Go Kart |uncheck|

@@ -10,10 +10,20 @@ Resources:
 * `Mosaic Hardware Manual <https://www.septentrio.com/system/files/support/mosaic_hardware_manual_v1.5.0.pdf>`_
 * `Mosaic-H reference guide <https://www.septentrio.com/system/files/support/mosaic-h_firmware_v4.9.1_reference_guide.pdf>`_
 
+
+The Septentrio board has a web poretal to set parameters and visulaize incoming data. This portal also shows current GNSS working with important metrics.
+The figure below shows a screenshot of this portal captured in Purdue. As we can see it shows the current location and heading. Along with that it also shows the number of satellites being tracked, the correction data status, wheter the board is connected to internet, etc.
+One important parameter that helped us with debugging is the antenna RF power and signal strength. Based on these parameters we ordered new :ref:`ref-antenna`.
+
+.. figure:: img/septentrio_portal.png
+  :align: center
+
+
+.. _ref-antenna:
 =========================
 Antenna
 =========================
-We used 2 `GNSS Multi-Band L1/L2 Surveying <https://www.sparkfun.com/products/17751>`_ antenna. 
+We used 2 `GNSS Multi-Band L1/L2 Surveying <https://www.sparkfun.com/products/17751>`_ antenna.
 
 =========================
 RTK correction services
