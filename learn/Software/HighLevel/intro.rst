@@ -17,3 +17,4 @@ See the side-bar under "Learn the Algorithms" for more details.
     follow_the_gap
     lidar_cone_detection
     ekf_bicycle
+    camera_cone_detection
